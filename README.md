@@ -82,7 +82,7 @@ Steps:
 3) Build Command: `npm run build` | Output Directory: `dist`
 4) Deploy
 
-Live URL: https://YOUR-DEPLOYED-URL.vercel.app
+Live URL: https://animesearch-one.vercel.app/
 
 ## Bonus Implementation
 
